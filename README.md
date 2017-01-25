@@ -12,17 +12,17 @@ When you open iMovie you'll see a screen that looks like the image below.
 
 Your going to select "create new" and then, for our purposes, "movie."
 
-IMAGE ONE
+<img src="img/imovie1.png" width="40%"> 
 
 Next, you'll need to "import media." This will be your video and images you plan on editing into your green screen footage.
 
 You can select all of the files at one time and just have them all imorted at once. Once that's done, they are all going to show up in this box (1). You'll need to drag each media individually into the editing pane (2)
 
-IMAGE TWO
+<img src="img/imovie2.png" width="40%"> 
 
 When that is complete, your screen should look like this:
 
-IMAGE THREE
+<img src="img/imovie3.png" width="40%"> 
 
 The box in the right hand corner gives you a preview of what your video is going to look like. Right now, as this arrangement of media stands, these videos/images will play in this sequence. However, this is not what we want. 
 
@@ -30,17 +30,17 @@ In order to have the images fill in the green screen behind the airplane, you'll
 
 Your editing pane should now look like this:
 
-IMAGE FOUR
+<img src="img/imovie4.png" width="40%"> 
 
 In order to cut out extra footage from your video, hold down the mouse and press the "R" key while dragging to select the range of material you want to delete. When it is selected, hit the "delete" key. After take some material out, it's possible that you'll need to move the video/image over a little bit within the editing pane. You can only do this by selecting the entire video and dragging it to where you need it to be.
 
 After some editing, your screen may look like this:
 
-IMAGE FIVE
+<img src="img/imovie5.png" width="40%"> 
 
 In order to view the images and videos you've added on the actual green screen, you'll need to change some settings. Click the overlay icon (1) which looks like two squares overlapping, and select the "green/blue screen" option (2) now the box in the right hand corner should look something like this:
 
-IMAGE FIVE
+<img src="img/imovie6.png" width="40%"> 
 
 In order to change it so certain images last on the screen behind the plane for longer or shorter periods of time, you simply click the image, move your cursor until there is a two-sided arrow ( <----> ). When this appears, drag either left or right, depending on whether you want it shorter or longer.
 
