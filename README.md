@@ -1,4 +1,5 @@
 #iMovie Tutorial: Adding Images and Videos to Green Screen Footage:
+Created by Alyssa Lopez
 
 ##What You'll Need:
 * Some video footage in front of a green or blue screen
