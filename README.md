@@ -134,7 +134,7 @@ a description. Then, press save.
 
 ##Other Key Points:
 
-IMAGE FIFTEEN
+<img src="img/imovie16.png" width="40%"> 
 
 There is no difference between
 using a blue or green screen, they
