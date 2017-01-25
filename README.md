@@ -115,7 +115,7 @@ location to place the file (this
 should be your USB), press
 “Save.”
 
-_*Third*_, return to the “Projects” menu (the button is in the top left corner). In this window, look for your project and this icon: <img scr="img/icon.png">. Click this icon, and choose “Move to Library.” Select the library that you just saved to your USB.
+_*Third*_, return to the “Projects” menu (the button is in the top left corner). In this window, look for your project and this icon: <img src="img/icon.png" width=10%>. Click this icon, and choose “Move to Library.” Select the library that you just saved to your USB.
 
 To open this project on another Mac, start by plugging in your USB and opening iMovie. Go to
 File -> Open Library -> Other. Chose your library from the list. If your USB does not appear, click “Locate” in the bottom left corner and then select your USB on the next screen. Any changes made to your project are saved automatically to your USB.
