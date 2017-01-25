@@ -33,7 +33,7 @@ Your editing pane should now look like this:
 
 <img src="img/imovie4.png" width="40%"> 
 
-In order to cut out extra footage from your video, hold down the mouse and press the "R" key while dragging to select the range of material you want to delete. When it is selected, hit the "delete" key. After take some material out, it's possible that you'll need to move the video/image over a little bit within the editing pane. You can only do this by selecting the entire video and dragging it to where you need it to be.
+In order to cut out extra footage from your video, hold down the mouse and press the "R" key while dragging to select the range of material you want to delete. When it is selected, hit the "delete" key. After taking some material out, it's possible that you'll need to move the video/image over a little bit within the editing pane. You can only do this by selecting the entire video and dragging it to where you need it to be.
 
 After some editing, your screen may look like this:
 
