@@ -11,7 +11,7 @@ Created by Alyssa Lopez
 
 When you open iMovie you'll see a screen that looks like the image below. 
 
-Your going to select "create new" and then, for our purposes, "movie."
+You're going to select "create new" and then, for our purposes, "movie."
 
 <img src="img/imovie1.png" width="40%"> 
 
