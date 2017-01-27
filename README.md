@@ -19,7 +19,7 @@ Next, you'll need to "import media." This will be your video and images you plan
 
 You can select all of the files at one time and just have them all imorted at once. Once that's done, they are all going to show up in this box (1). You'll need to drag each media individually into the editing pane (2)
 
-<img src="img/imovie2.png" width="50%"> 
+<img src="img/imovie2.png" width="80%"> 
 
 When that is complete, your screen should look like this:
 
