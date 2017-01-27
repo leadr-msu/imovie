@@ -13,7 +13,7 @@ When you open iMovie you'll see a screen that looks like the image below.
 
 You're going to select "create new" and then, for our purposes, "movie."
 
-<img src="img/imovie1.png" width="50%"> 
+<img src="img/imovie1.png" width="80%"> 
 
 Next, you'll need to "import media." This will be your video and images you plan on editing into your green screen footage.
 
@@ -23,7 +23,7 @@ You can select all of the files at one time and just have them all imorted at on
 
 When that is complete, your screen should look like this:
 
-<img src="img/imovie3.png" width="50%"> 
+<img src="img/imovie3.png" width="80%"> 
 
 The box in the right hand corner gives you a preview of what your video is going to look like. Right now, as this arrangement of media stands, these videos/images will play in this sequence. However, this is not what we want. 
 
@@ -31,49 +31,49 @@ In order to have the images fill in the green screen behind the airplane, you'll
 
 Your editing pane should now look like this:
 
-<img src="img/imovie4.png" width="50%"> 
+<img src="img/imovie4.png" width="80%"> 
 
 In order to cut out extra footage from your video, hold down the mouse and press the "R" key while dragging to select the range of material you want to delete. When it is selected, hit the "delete" key. After taking some material out, it's possible that you'll need to move the video/image over a little bit within the editing pane. You can only do this by selecting the entire video and dragging it to where you need it to be.
 
 After some editing, your screen may look like this:
 
-<img src="img/imovie5.png" width="50%"> 
+<img src="img/imovie5.png" width="80%"> 
 
 In order to view the images and videos you've added on the actual green screen, you'll need to change some settings. Click the overlay icon (1) which looks like two squares overlapping, and select the "green/blue screen" option (2) now the box in the right hand corner should look something like this:
 
-<img src="img/imovie6.png" width="50%"> 
+<img src="img/imovie6.png" width="80%"> 
 
 In order to change it so certain images last on the screen behind the plane for longer or shorter periods of time, you simply click the image, move your cursor until there is a two-sided arrow ( <----> ). When this appears, drag either left or right, depending on whether you want it shorter or longer.
 
 Filters can be added to your video and images. This is done on an individual basis, meaning only one clip/video at a time can be changed.
 
-<img src="img/imovie7.png" width="50%"> 
+<img src="img/imovie7.png" width="80%"> 
 
 To get to this menu, you click on the icon that has three overlapping circles. (1) Once there, you can see all the options on the left-hand side of your screen. (2) When chosen, these filters will only apply to the airplane media.
 
 Your edited video will now look like this:
 
-<img src="img/imovie8.png" width="50%"> 
+<img src="img/imovie8.png" width="80%"> 
 
 Notice the airplane is now black and white and there are some lines through the screen that make it appear like an old-school movie.
 
 The image itself can also be edited depending on how you would like it to fit into the background.
 
-<img src="img/imovie9.png" width="50%"> 
+<img src="img/imovie9.png" width="80%"> 
 
 For example, say you only want a piece of the picture to be showing behind the airplane. To do this, you'll need to select the desired image in the editing pane. Then select the crop icon in the top right hand box. You want to press "crop to fill" and then move the box around to fit what image you want to show behind the plane. To finalize the change, click anywhere on the editing pane.
 
 Instead of a full city landscape, now your plane should be flying over just one small segment. See below:
 
-<img src="img/imovie10.png" width="50%"> 
+<img src="img/imovie10.png" width="80%"> 
 
 ##Audio
 
-<img src="img/imovie11.png" width="50%"> 
+<img src="img/imovie11.png" width="80%"> 
 
 While audio alone cannot be edited with iMovie, there are certain functions still available. A fade-in can be added by hovering over the blue part of any video added to iMovie (1). When a cursor is placed over a white dot appears in the top left corner that can be dragged to the right to extend the length of a fade-in. The actual volume can also be adjusted by selecting the thin black line in the blue audio section of any video (2). Once it is clicked, it can be moved up or down to change the volume according to your needs.  
 
-<img src="img/imovie12.png" width="50%"> 
+<img src="img/imovie12.png" width="80%"> 
 
 Audio can also be edited in the
 box in the upper right hand
@@ -91,7 +91,7 @@ that looks like noise levels (2).
 
 ##Saving Your Work
 
-<img src="img/imovie13.png" width="50%"> 
+<img src="img/imovie13.png" width="80%"> 
 
 If your project is still a work in
 progress, please make sure that you
@@ -107,7 +107,7 @@ come back and edit to a USB.
 _*First*_,
 go to File -> Open Library -> New.
 
-<img src="img/imovie14.png" width="50%"> 
+<img src="img/imovie14.png" width="80%"> 
 
 _*Second*_, under “Save As” chose a
 file name for your library and a
@@ -120,7 +120,7 @@ _*Third*_, return to the “Projects” menu (the button is in the top left corn
 To open this project on another Mac, start by plugging in your USB and opening iMovie. Go to
 File -> Open Library -> Other. Chose your library from the list. If your USB does not appear, click “Locate” in the bottom left corner and then select your USB on the next screen. Any changes made to your project are saved automatically to your USB.
 
-<img src="img/imovie15.png" width="50%"> 
+<img src="img/imovie15.png" width="80%"> 
 
 If your work is complete and you
 do not plan on editing the file any
@@ -135,7 +135,7 @@ a description. Then, press save.
 
 ##Other Key Points:
 
-<img src="img/imovie16.png" width="50%"> 
+<img src="img/imovie16.png" width="80%"> 
 
 There is no difference between
 using a blue or green screen, they
