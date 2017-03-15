@@ -1,13 +1,13 @@
-#iMovie Tutorial: Adding Images and Videos to Green Screen Footage:
+# iMovie Tutorial: Adding Images and Videos to Green Screen Footage:
 Created by Alyssa Lopez
 
-##What You'll Need:
+## What You'll Need:
 * Some video footage in front of a green or blue screen
 * Additional images or video to be edited into the background
 * iMovie editing software
 * USB/external hard drive
 
-##Adding Images and Editing:
+## Adding Images and Editing:
 
 When you open iMovie you'll see a screen that looks like the image below. 
 
@@ -67,7 +67,7 @@ Instead of a full city landscape, now your plane should be flying over just one 
 
 <img src="img/imovie10.png" width="80%"> 
 
-##Audio
+## Audio
 
 <img src="img/imovie11.png" width="80%"> 
 
@@ -89,7 +89,7 @@ sound properly, you can filter out
 background noise with the icon
 that looks like noise levels (2).
 
-##Saving Your Work
+## Saving Your Work
 
 <img src="img/imovie13.png" width="80%"> 
 
@@ -133,7 +133,7 @@ Share -> File. Press “next” once
 you’ve named your file and given it
 a description. Then, press save.
 
-##Other Key Points:
+## Other Key Points:
 
 <img src="img/imovie16.png" width="80%"> 
 
@@ -155,4 +155,4 @@ the “softness” of the background.
 Occasionally, there will be issues with the green screen that will make the editing process a little bit more difficult, such as wrinkles on the green screen. Images can be “smoothed” over when the green screen has wrinkles in it by changing the softness. This slider (1) is found in the right hand box of your screen after you press the overlay button (2). Adjusting this feature will also dim any blue or green (such as on your clothes) in the video.
 
 -----
-###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
