@@ -96,9 +96,11 @@ that looks like noise levels (2).
 If your project is still a work in
 progress, please make sure that you
 are saving it to an external hard drive
-or a USB. Materials left on the
-LEADR computers are not guaranteed
-to be there at all times.
+or a USB. For those who want to continue
+using their USB on Windows machines, 
+format the drive as "exFAT." Materials 
+left on the LEADR computers are not 
+guaranteed to be there at all times.
 
 There are a few steps to this to save
 something that you would like to
