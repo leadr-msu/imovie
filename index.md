@@ -157,4 +157,4 @@ the “softness” of the background.
 Occasionally, there will be issues with the green screen that will make the editing process a little bit more difficult, such as wrinkles on the green screen. Images can be “smoothed” over when the green screen has wrinkles in it by changing the softness. This slider (1) is found in the right hand box of your screen after you press the overlay button (2). Adjusting this feature will also dim any blue or green (such as on your clothes) in the video.
 
 -----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/)
